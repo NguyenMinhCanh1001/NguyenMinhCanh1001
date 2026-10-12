@@ -81,7 +81,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,php,go,ts,kotlin,html,css,js,bootstrap,tailwind,django,dotnet,nextjs,nestjs,mysql,sqlite,git,github,docker&perline=8" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,php,go,ts,kotlin,html,css,js,bootstrap,tailwind,dotnet,nextjs,nestjs,mysql,sqlite,git,github,docker&perline=8" alt="My Skills" />
 </a>
 
 </div>
