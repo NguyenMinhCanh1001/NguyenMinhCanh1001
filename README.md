@@ -19,7 +19,7 @@
 - ⚙️ Backend Developer
 - 🚀 Building real-world systems
 - 🧠 Learning system design & microservices
-- 📱 Experimenting with Android (Kotlin) and web apps (PHP)
+
 
 ---
 
@@ -99,9 +99,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenMinhCanh1001&repo=FoodShop&theme=radical&hide_border=true" alt="FoodShop" />
 </a>
 <br>
-<a href="https://github.com/NguyenMinhCanh1001/Laptrinhdidong">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenMinhCanh1001&repo=Laptrinhdidong&theme=radical&hide_border=true" alt="Laptrinhdidong" />
-</a>
 <a href="https://github.com/NguyenMinhCanh1001/DoctorAppointment">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenMinhCanh1001&repo=DoctorAppointment&theme=radical&hide_border=true" alt="DoctorAppointment" />
 </a>
