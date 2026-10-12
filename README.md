@@ -110,30 +110,10 @@
 
 ---
 
-## 📊 GitHub Activity Graph
 
-<div align="center">
 
-<img src="https://ghchart.rshah.org/ff00ff/NguyenMinhCanh1001" alt="GitHub contribution chart" width="95%" />
 
-</div>
 
----
-
-## 📈 GitHub Analytics & Streak
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NguyenMinhCanh1001&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenMinhCanh1001&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=NguyenMinhCanh1001&theme=radical&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
 
 <div align="center">
 
